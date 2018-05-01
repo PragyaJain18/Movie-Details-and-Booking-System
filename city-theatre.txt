@@ -1,0 +1,9 @@
+Ahmedabad PVR-MGF PVR-DT
+Bengluru PVR-Sahara PVR-DT BigCineamas
+Chandigarh PVR-Sahara PVR-MGF
+Chennai PVR-DT BigCineamas
+Kolkata PVR-MGF BigCineamas
+Mumbai PVR-Sahara PVR-MGF PVR-DT
+NCR-Delhi PVR-Sahara PVR-MGF PVR-DT BigCineamas
+Pune PVR-Sahara PVR-MGF PVR-DT
+Surat PVR-MGF PVR-DT
